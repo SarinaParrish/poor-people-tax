@@ -9,7 +9,7 @@ Part data visualization, part social commentary — exploring how risk and optim
 
 🌐 Live Demo
 
-🌟 Launch Streamlit App
+🌟 Launch Streamlit App [https://poor-people-tax-auambfqgsrvfdbs5gmohxt.streamlit.app/](https://poor-people-tax-auambfqgsrvfdbs5gmohxt.streamlit.app/)
 
 🎥 Watch Loom Walkthrough
 
