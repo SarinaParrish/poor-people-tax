@@ -47,14 +47,6 @@ Built with: Streamlit • Plotly • Pandas • Python 3.13
 Palette: #ff79c6 pink • #8be9fd cyan • #0b0b0d black
 Retro-glitchcore minimalism; data → pause → reflection → reveal → synthesis.
 
-💡 Future Ideas
-
-Add Twin Donuts or Lorenz Curve for wealth inequality.
-
-Explore “third era” speculation (AI stocks, NFTs).
-
-CRT-pixel styling for full WeatherStarr✨ effect.
-
 💬 Author
 
 ✨Sarina Parrish — 2025 / Columbia University Justice Through Code / AISE
